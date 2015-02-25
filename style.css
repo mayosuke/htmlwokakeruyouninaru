@@ -10,3 +10,8 @@ article {
   background: RGB(255,255,255);
 }
 
+article > header > h1 {
+  border-style: solid;
+  border-width: 2px;
+  border-color: RGB(253,227,231);
+}
