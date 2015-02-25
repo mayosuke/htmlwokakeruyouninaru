@@ -1,3 +1,12 @@
 body { 
   background: RGB(219,239,158);
 }
+
+nav {
+  background: RGB(0,188,123);
+}
+
+article {
+  background: RGB(255,255,255);
+}
+
