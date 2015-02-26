@@ -1,5 +1,9 @@
 body { 
   background: RGB(219,239,158);
+  padding-left: 2%;
+  padding-right: 3%;
+  padding-top: 1%;
+  padding-bottom: 1%;
 }
 
 nav {
