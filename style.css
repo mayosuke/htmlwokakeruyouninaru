@@ -17,6 +17,10 @@ nav {
   margin: 0cm 0.5cm 0cm 0cm;
 }
 
+nav > ul > li {
+  font-size: 18px;
+}
+
 article {
   background: RGB(255,255,255);
   flex: 1 1 60%;
