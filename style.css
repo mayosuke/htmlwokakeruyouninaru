@@ -3,41 +3,41 @@
 }
 
 body { 
-  background: RGB(219,239,158);
   padding: 1cm 1cm 1cm 1cm;
   margin: 0cm 0cm 0cm 0cm;
+  background: #D8EF9E;
 }
 
 body > header > h1 {
   padding: 0cm 0cm 0cm 0cm;
   margin: 0cm 0cm 0.5cm 0cm;
   font-size: 24px;
-  color: RGB(85,183,107);
+  color: #55B76B;
 }
 
 nav {
-  background: RGB(0,188,123);
   flex: 1 1 auto;
   padding: 0cm 0cm 0cm 0cm;
   margin: 0cm 0.5cm 0cm 0cm;
+  background: #00BC7B;
 }
 
 nav > ul > li {
   font-size: 18px;
-  color: RGB(255,255,255);
+  color: #FFFFFF;
 }
 
 article {
-  background: RGB(255,255,255);
   flex: 1 1 60%;
   padding: 0cm 0cm 0cm 0cm;
   margin: 0cm 0cm 0cm 0cm;
+  background: #FFFFFF;
 }
 
 article > header {
   border-style: solid;
   border-width: 2px;
-  border-color: RGB(253,227,231);
+  border-color: #FFAAAA;
   padding: 0cm 0cm 0cm 0cm;
   margin: 0.5cm 0.5cm 0.5cm 0.5cm;
 }
@@ -46,13 +46,13 @@ article > header > h1 {
   padding: 0cm 0cm 0cm 0cm;
   margin: 0.25cm 0.25cm 0.25cm 0.25cm;
   font-size: 24px;
-  color: RGB(85,183,107);
+  color: #55B76B;
 }
 
 article > section > p {
   padding: 0cm 0.5cm 0.5cm 0.5cm;
   margin: 0cm 0cm 0cm 0cm;
-  color: RGB(182,180,178);
+  color: #707070;
 }
 
 .container {
