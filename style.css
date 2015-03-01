@@ -1,6 +1,10 @@
+* {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
 body { 
   background: RGB(219,239,158);
-  padding: 0.5cm 1cm 1cm 1cm;
+  padding: 1cm 1cm 1cm 1cm;
   margin: 0cm 0cm 0cm 0cm;
 }
 
