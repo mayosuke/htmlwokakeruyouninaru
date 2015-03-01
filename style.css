@@ -1,21 +1,26 @@
 body { 
   background: RGB(219,239,158);
+  padding: 1cm 1cm 1cm 1cm;
+  margin: 0cm 0cm 0cm 0cm;
+}
+
+body > header > h1 {
   padding: 0cm 0cm 0cm 0cm;
-  margin: 0cm 0cm 1cm 0cm;
+  margin: 1cm 1cm 1cm 1cm;
 }
 
 nav {
   background: RGB(0,188,123);
   flex: 1 1 auto;
-  padding: 0cm 0cm 0cm 0cm;
-  margin: 0cm 1cm 1cm 0cm;
+  padding: 1cm 1cm 1cm 1cm;
+  margin: 1cm 1cm 1cm 1cm;
 }
 
 article {
   background: RGB(255,255,255);
-  flex: 1 1 80%;
-  padding: 0cm 0cm 0cm 0cm;
-  margin: 0cm 0cm 0cm 0cm;
+  flex: 1 1 60%;
+  padding: 1cm 1cm 1cm 1cm;
+  margin: 1cm 1cm 1cm 1cm;
 }
 
 article > header > h1 {
