@@ -8,6 +8,7 @@ body > header > h1 {
   padding: 0cm 0cm 0cm 0cm;
   margin: 0cm 0cm 0.5cm 0cm;
   font-size: 24px;
+  color: RGB(85,183,107);
 }
 
 nav {
@@ -19,6 +20,7 @@ nav {
 
 nav > ul > li {
   font-size: 18px;
+  color: RGB(255,255,255);
 }
 
 article {
@@ -40,11 +42,13 @@ article > header > h1 {
   padding: 0cm 0cm 0cm 0cm;
   margin: 0.25cm 0.25cm 0.25cm 0.25cm;
   font-size: 24px;
+  color: RGB(85,183,107);
 }
 
 article > section > p {
   padding: 0cm 0.5cm 0.5cm 0.5cm;
   margin: 0cm 0cm 0cm 0cm;
+  color: RGB(182,180,178);
 }
 
 .container {
