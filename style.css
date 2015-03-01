@@ -6,21 +6,21 @@ body {
 
 body > header > h1 {
   padding: 0cm 0cm 0cm 0cm;
-  margin: 1cm 1cm 1cm 1cm;
+  margin: 0cm 0cm 1cm 0cm;
 }
 
 nav {
   background: RGB(0,188,123);
   flex: 1 1 auto;
-  padding: 1cm 1cm 1cm 1cm;
-  margin: 1cm 1cm 1cm 1cm;
+  padding: 0cm 0cm 0cm 0cm;
+  margin: 0cm 1cm 0cm 0cm;
 }
 
 article {
   background: RGB(255,255,255);
   flex: 1 1 60%;
-  padding: 1cm 1cm 1cm 1cm;
-  margin: 1cm 1cm 1cm 1cm;
+  padding: 0cm 0cm 0cm 0cm;
+  margin: 0cm 0cm 0cm 0cm;
 }
 
 article > header > h1 {
